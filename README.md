@@ -1,2 +1,2 @@
-# ATLAS-batch1-Thanmy
+# ATLAS-batch2-Thanmy
 ATLAS Training 
